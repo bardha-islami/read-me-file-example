@@ -2,8 +2,6 @@
 
 Welcome to the **eCommerce Platform** repository! This is a fully-featured eCommerce solution for building scalable, customizable, and high-performance online stores. It supports everything you need for product management, order processing, user authentication, secure payment systems, and marketing tools. The platform is designed with a modular architecture, making it easy to extend and integrate with other systems.
 
-Whether you're building a small local store or a large-scale global marketplace, this platform is flexible enough to suit your needs.
-
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
