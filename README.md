@@ -183,6 +183,11 @@ Below is a high-level system design diagram showcasing the different services an
 
 * An API Gateway is used to route API requests to appropriate services. This provides a single entry point for external requests and helps with load balancing, security, and performance.
 
+### Database Schema Diagrams:
+
+![Database Schema Diagrams](https://via.placeholder.com/800x500.png)
+
+
 ## Setup and Installation
 
 ### 1. Clone the Repository
