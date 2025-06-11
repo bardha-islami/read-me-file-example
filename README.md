@@ -14,9 +14,8 @@ Whether you're building a small local store or a large-scale global marketplace,
 6. [Setup and Installation](#setup-and-installation)
 7. [Folder Structure](#folder-structure)
 8. [API Documentation](#api-documentation)
-9. [Common Use Cases](#common-use-cases)
-10. [Contributing](#contributing)
-11. [License](#license)
+9. [Contributing](#contributing)
+10. [License](#license)
 
 ## Project Overview
 
@@ -277,27 +276,9 @@ The API exposes various endpoints for handling products, orders, users, and paym
 * **PUT** `/api/products/:id`: Updates a product (admin only)
 * **DELETE** `/api/products/:id`: Deletes a product (admin only)
 
-## Common Use Cases
-
-### User Registration
-
-A user registers by providing an email, username, and password. Once registered, they can log in and start shopping.
-
-### Product Browsing
-
-Users can browse through product categories, view detailed descriptions, and add items to their shopping cart.
-
-### Checkout Process
-
-After adding items to the cart, the user proceeds to checkout where they enter their shipping address, select a payment method, and apply any discount codes. Upon confirmation, the order is processed.
-
-### Admin Dashboard
-
-Admins can log in to view real-time sales data, manage products, and process customer orders.
-
 ## Contributing
 
-We welcome contributions to this project! Whether it's bug fixes, feature additions, or documentation improvements, your help is appreciated. Please refer to the [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed instructions.
+We welcome contributions to this project! Whether it's bug fixes, feature additions, or documentation improvements, your help is appreciated.
 
 ## License
 
